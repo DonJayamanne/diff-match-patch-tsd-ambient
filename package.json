@@ -1,0 +1,15 @@
+{
+  "name": "retyped-diff-match-patch-tsd-ambient",
+  "description": "TypeScript typings for diff-match-patch",
+  "version": "1.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/diff-match-patch-tsd-ambient",
+  "typescript": {
+    "definition": "diff-match-patch.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
